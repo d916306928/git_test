@@ -8,7 +8,7 @@ public class User {
     private String name;
     private Integer age;
     private String sex;
-
+    private String check1;
 
     public User(String name, Integer age, String sex) {
         this.name = name;
